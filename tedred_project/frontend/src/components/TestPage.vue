@@ -39,7 +39,7 @@ export default {
 .message {
 	color: #276749;
 	background-color: #c6f6d5;
-	border: 2px solid #9ae6b4;
+	border: 1px solid #9ae6b4;
 	border-radius: 10px;
 	padding: 1rem 2rem;
 	font-size: 1.2rem;
